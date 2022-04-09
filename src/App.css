@@ -1,4 +1,17 @@
-.App {
+
+.app {
+  background: #6b469a;
+  padding: 50px;
+  height: 100vh;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  padding: 5px;
+  max-width: 400px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
